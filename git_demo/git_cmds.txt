@@ -1,0 +1,9 @@
+# git commands
+
+1. git init
+2. git add <file_name>
+	git add .
+3. git commit -m "You custom message"
+4. git remote add origin <repo_link>
+5. git push -u origin master
+6.
